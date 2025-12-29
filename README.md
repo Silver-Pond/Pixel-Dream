@@ -59,7 +59,7 @@ For support, questions, or feedback:
 
 📧 Email: ashfordmcharlies02@email.com
 
-🌐 Documentation / Website: https://github.com/Silver-Pond/Pixel-Dream/edit/main
+🌐 Documentation / Website: https://github.com/Silver-Pond/Pixel-Dream
 
 Support requests are usually answered within 48 hours.
 
